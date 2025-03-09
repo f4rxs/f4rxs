@@ -36,14 +36,3 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4rxs&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=3600" width="40%" />
 </div>
-
-
-
-<h3 align="center">🔥 Fun Fact: I can turn coffee into code! ☕💻</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200px">
-</p>
-
----
-
-🔥 _"Keep learning, keep building, and stay creative!"_ 🚀✨
