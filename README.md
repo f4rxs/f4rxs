@@ -4,9 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=f4rxs&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Fares" />
-</h1>
 
 ---
 
